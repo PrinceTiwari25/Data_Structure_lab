@@ -13,3 +13,9 @@ A simple Python program to manage inventory using SKUs and quantities.
 - View current inventory
 
 
+## Possible New Functionality
+
+-Forward Navigation(Redo)
+Required two stacks
+history - for visited pages
+Forward_Stack - for storing  pages that can be  revisited.
