@@ -1,5 +1,5 @@
 class Queue:
-    def _init_(self):
+    def __init__(self):
         self.queue = []
 
     # Insert element at the rear
